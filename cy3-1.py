@@ -1,4 +1,3 @@
- 
 from Crypto.Util.number import inverse
 from random import randint
  
